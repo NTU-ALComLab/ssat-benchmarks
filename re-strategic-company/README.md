@@ -1,2 +1,3 @@
-Family "strategic-company" is adapted from QBFLIB. 
-Universal quantifiers are replaced by random quantifiers with probability 0.5.
+This family contains instances obtained by converting the QBFs encoding the strategic-company problem.
+The universal quantifiers in the QBFs are replaced by randomized quantifiers with probability 0.5.
+The original QBFs were taken from [QBFLIB](https://www.qbflib.org/).
